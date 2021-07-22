@@ -17,8 +17,8 @@ import cv2
 ```
 ## Recognize Face using OpenCV
 #### Download the dependencies files:
-1. [haarcascade_eye.xml] 
-2. [haarcascade_frontalface_default.xml]
+1. [haarcascade_frontalface_default.xml](https://github.com/wesamhamad/Face-detection-using-OpenCV/blob/main/haarcascade_frontalface_default.xml).
+2. [haarcascade_eye.xml](https://github.com/wesamhamad/Face-detection-using-OpenCV/blob/main/haarcascade_eye.xml).
 #### Then run the following code and it will perform face detection on the given image.
 
 ```python
@@ -61,7 +61,7 @@ NOTE:You have to change the path of files base on yours,
 cv2.CascadeClassifier(your file path)
 ``
 
-#### After running the [code](), it will draw rectangles around the faces and eyes as shown in the output sample below.
+#### After running the [code](https://github.com/wesamhamad/Face-detection-using-OpenCV/blob/main/detect_face-vedio.py), it will draw rectangles around the faces and eyes as shown in the output sample below.
 
 https://user-images.githubusercontent.com/74800962/126720441-470e7298-4b41-454d-a4bb-1284be40cfa9.mov
 
