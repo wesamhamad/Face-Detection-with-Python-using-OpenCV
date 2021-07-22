@@ -5,7 +5,7 @@ Face detection is a computer vision technology that helps to locate/visualize hu
 
 ## Installation 
 
-You need to i nstall opencv library.
+You need to install opencv library.
 
 Run this command to  install it (opencv for python3):
 ```
