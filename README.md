@@ -66,5 +66,5 @@ cv2.CascadeClassifier(your file path)
 https://user-images.githubusercontent.com/74800962/126720441-470e7298-4b41-454d-a4bb-1284be40cfa9.mov
 
 
-# Learning Rerences:
+## Learning Rerences
 * [YouTube video ](https://youtu.be/PmZ29Vta7Vc)
